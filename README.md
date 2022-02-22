@@ -29,4 +29,4 @@ To meet the acceptance criteria, I did the following:
 -  Created a Unique git hub gist and repository for my regex tutorial
 -  Input the starter code for Regex tutorial github gist
 
-[Link to deployed application]()
+[Link to deployed application](https://izzie2021.github.io/Regex-Tutorial/)
