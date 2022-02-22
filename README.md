@@ -30,3 +30,6 @@ To meet the acceptance criteria, I did the following:
 -  Input the starter code for Regex tutorial github gist
 
 [Link to deployed application](https://izzie2021.github.io/Regex-Tutorial/)
+
+
+[Link to github gist](https://github.com/Izzie2021/Regex-Tutorial/blob/main/Develop/gist-template.md)
